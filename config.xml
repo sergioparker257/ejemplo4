@@ -4,13 +4,13 @@
 		id        = "temasxp"
 		versionCode="1.0"
 		version   = "1.0">
-		<name>Rompe X</name>
+		<name>Temas xp</name>
 		<description>
 Ejemplo basico de temas		</description>
 		<author href="" email="sergioparker.257@gmail.com">
 Asesor.
 		</author>
-		<preference name="phonegap-version" value="6.5.0" />
+		<preference name="phonegap-version" value="6.1.0" />
 		<preference name="orientation" value="default" />
 		<preference name="fullscreen" value="false" />
 		<preference name="target-device" value="universal" />
